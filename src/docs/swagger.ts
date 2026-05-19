@@ -13,7 +13,7 @@ const doc = {
             description: "Local Server",
         },
         {
-            url: "https://be-jk-polnep.vercel.app/",
+            url: "https://be-jk-polnep.vercel.app",
             description: "Deploy Server",
         },
     ],
